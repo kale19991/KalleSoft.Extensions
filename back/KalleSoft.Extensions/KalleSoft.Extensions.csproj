@@ -3,6 +3,22 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
     <Nullable>enable</Nullable>
+
+    <PackageId>KalleSoft.Extensions</PackageId>
+    <Version>1.0.0</Version>
+    <icon></icon>
+    <license>MIT</license>
+    <Authors>Leonardo de Lima Oliveira</Authors>
+    <Company>KalleSoft</Company>
+    <PackageDescription>Diversas extensões.</PackageDescription>
+    <Description>Facilitar seu desenvolvimento.</Description>
+    <RepositoryUrl>https://github.com/kale19991/KalleSoft.Extensions</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/kale19991/KalleSoft.Extensions</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageIcon></PackageIcon>
+    <PackageTags>KalleSoft;cents;centavos</PackageTags>
+    <ReleaseNotes></ReleaseNotes>
+    <summary>Projeto com diversas extensões.</summary>
   </PropertyGroup>
 
 </Project>
