@@ -7,6 +7,11 @@ namespace KalleSoft.Extensions.Maney
 {
     public static class MoneyExtension
     {
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="amount"></param>
+        /// <returns></returns>
         public static int ToCents(this decimal amount)
         {
             if (amount <= 0)
