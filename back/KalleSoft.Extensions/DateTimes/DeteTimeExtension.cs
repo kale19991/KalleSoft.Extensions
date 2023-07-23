@@ -5,8 +5,8 @@ namespace KalleSoft.Extensions.DateTimes
 {
     public static class DeteTimeExtension
     {
-        #region DataTime
-        public static DateTime AddBusinessDays(DateTime dt, int nDays)
+        #region DateTime
+        public static DateTime AddBusinessDays(this DateTime dt, int nDays)
         {
             int weeks = nDays / 5;
             nDays %= 5;
