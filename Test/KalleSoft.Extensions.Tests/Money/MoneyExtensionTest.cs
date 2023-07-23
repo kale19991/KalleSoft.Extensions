@@ -1,7 +1,5 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using KalleSoft.Extensions.Maneys;
+
 
 namespace KalleSoft.Extensions.Tests.Money
 {
@@ -14,7 +12,11 @@ namespace KalleSoft.Extensions.Tests.Money
         [Test]
         public void ShowldConvertDecimalToInt()
         {
-            Assert.Pass();
+            decimal value = Convert.ToDecimal("1690.00");
+            var actual = 169000;
+            var cents = value.ToCents();
+            
+            Assert.That(actual, Is.EqualTo(cents));
         }
     }
 }

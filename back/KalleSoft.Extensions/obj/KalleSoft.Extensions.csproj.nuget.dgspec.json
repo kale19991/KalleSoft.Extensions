@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "z:\\KalleSoft\\KalleSoft.Extensions\\back\\KalleSoft.Extensions\\KalleSoft.Extensions.csproj": {}
+    "Z:\\KalleSoft\\KalleSoft.Extensions\\back\\KalleSoft.Extensions\\KalleSoft.Extensions.csproj": {}
   },
   "projects": {
-    "z:\\KalleSoft\\KalleSoft.Extensions\\back\\KalleSoft.Extensions\\KalleSoft.Extensions.csproj": {
+    "Z:\\KalleSoft\\KalleSoft.Extensions\\back\\KalleSoft.Extensions\\KalleSoft.Extensions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "z:\\KalleSoft\\KalleSoft.Extensions\\back\\KalleSoft.Extensions\\KalleSoft.Extensions.csproj",
+        "projectUniqueName": "Z:\\KalleSoft\\KalleSoft.Extensions\\back\\KalleSoft.Extensions\\KalleSoft.Extensions.csproj",
         "projectName": "KalleSoft.Extensions",
-        "projectPath": "z:\\KalleSoft\\KalleSoft.Extensions\\back\\KalleSoft.Extensions\\KalleSoft.Extensions.csproj",
+        "projectPath": "Z:\\KalleSoft\\KalleSoft.Extensions\\back\\KalleSoft.Extensions\\KalleSoft.Extensions.csproj",
         "packagesPath": "C:\\Users\\eng_l\\.nuget\\packages\\",
-        "outputPath": "z:\\KalleSoft\\KalleSoft.Extensions\\back\\KalleSoft.Extensions\\obj\\",
+        "outputPath": "Z:\\KalleSoft\\KalleSoft.Extensions\\back\\KalleSoft.Extensions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

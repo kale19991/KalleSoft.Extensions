@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace KalleSoft.Extensions.Maney
+namespace KalleSoft.Extensions.Maneys
 {
     public static class MoneyExtension
     {
@@ -16,7 +16,7 @@ namespace KalleSoft.Extensions.Maney
         {
             if (amount <= 0)
                 return 0;
-            
+
             var text = amount.ToString("N2")
                 .Replace(",", string.Empty)
                 .Replace(".", string.Empty);
