@@ -4,14 +4,14 @@
     "z:\\KalleSoft\\KalleSoft.Extensions\\Test\\KalleSoft.Extensions.Tests\\KalleSoft.Extensions.Tests.csproj": {}
   },
   "projects": {
-    "Z:\\KalleSoft\\KalleSoft.Extensions\\back\\KalleSoft.Extensions\\KalleSoft.Extensions.csproj": {
-      "version": "1.0.0",
+    "z:\\KalleSoft\\KalleSoft.Extensions\\back\\KalleSoft.Extensions\\KalleSoft.Extensions.csproj": {
+      "version": "2.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\KalleSoft\\KalleSoft.Extensions\\back\\KalleSoft.Extensions\\KalleSoft.Extensions.csproj",
+        "projectUniqueName": "z:\\KalleSoft\\KalleSoft.Extensions\\back\\KalleSoft.Extensions\\KalleSoft.Extensions.csproj",
         "projectName": "KalleSoft.Extensions",
-        "projectPath": "Z:\\KalleSoft\\KalleSoft.Extensions\\back\\KalleSoft.Extensions\\KalleSoft.Extensions.csproj",
+        "projectPath": "z:\\KalleSoft\\KalleSoft.Extensions\\back\\KalleSoft.Extensions\\KalleSoft.Extensions.csproj",
         "packagesPath": "C:\\Users\\eng_l\\.nuget\\packages\\",
-        "outputPath": "Z:\\KalleSoft\\KalleSoft.Extensions\\back\\KalleSoft.Extensions\\obj\\",
+        "outputPath": "z:\\KalleSoft\\KalleSoft.Extensions\\back\\KalleSoft.Extensions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -95,8 +95,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "Z:\\KalleSoft\\KalleSoft.Extensions\\back\\KalleSoft.Extensions\\KalleSoft.Extensions.csproj": {
-                "projectPath": "Z:\\KalleSoft\\KalleSoft.Extensions\\back\\KalleSoft.Extensions\\KalleSoft.Extensions.csproj"
+              "z:\\KalleSoft\\KalleSoft.Extensions\\back\\KalleSoft.Extensions\\KalleSoft.Extensions.csproj": {
+                "projectPath": "z:\\KalleSoft\\KalleSoft.Extensions\\back\\KalleSoft.Extensions\\KalleSoft.Extensions.csproj"
               }
             }
           }

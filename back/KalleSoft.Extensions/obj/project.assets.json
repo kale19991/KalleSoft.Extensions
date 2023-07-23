@@ -12,7 +12,7 @@
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "2.0.0",
     "restore": {
       "projectUniqueName": "z:\\KalleSoft\\KalleSoft.Extensions\\back\\KalleSoft.Extensions\\KalleSoft.Extensions.csproj",
       "projectName": "KalleSoft.Extensions",

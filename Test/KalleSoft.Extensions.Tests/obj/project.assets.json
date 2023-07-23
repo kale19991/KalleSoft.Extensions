@@ -974,7 +974,7 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
-      "KalleSoft.Extensions/1.0.0": {
+      "KalleSoft.Extensions/2.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.1",
         "compile": {
@@ -3926,7 +3926,7 @@
         "system.xml.xdocument.nuspec"
       ]
     },
-    "KalleSoft.Extensions/1.0.0": {
+    "KalleSoft.Extensions/2.0.0": {
       "type": "project",
       "path": "../../back/KalleSoft.Extensions/KalleSoft.Extensions.csproj",
       "msbuildProject": "../../back/KalleSoft.Extensions/KalleSoft.Extensions.csproj"
@@ -3934,7 +3934,7 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "KalleSoft.Extensions >= 1.0.0",
+      "KalleSoft.Extensions >= 2.0.0",
       "Microsoft.NET.Test.Sdk >= 17.3.2",
       "NUnit >= 3.13.3",
       "NUnit.Analyzers >= 3.5.0",
@@ -3976,8 +3976,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "Z:\\KalleSoft\\KalleSoft.Extensions\\back\\KalleSoft.Extensions\\KalleSoft.Extensions.csproj": {
-              "projectPath": "Z:\\KalleSoft\\KalleSoft.Extensions\\back\\KalleSoft.Extensions\\KalleSoft.Extensions.csproj"
+            "z:\\KalleSoft\\KalleSoft.Extensions\\back\\KalleSoft.Extensions\\KalleSoft.Extensions.csproj": {
+              "projectPath": "z:\\KalleSoft\\KalleSoft.Extensions\\back\\KalleSoft.Extensions\\KalleSoft.Extensions.csproj"
             }
           }
         }

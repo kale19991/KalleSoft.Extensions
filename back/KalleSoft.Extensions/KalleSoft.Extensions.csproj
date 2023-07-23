@@ -5,7 +5,7 @@
     <Nullable>enable</Nullable>
 
     <PackageId>KalleSoft.Extensions</PackageId>
-    <Version>1.0.0</Version>
+    <Version>2.0.0</Version>
     <icon>https://www.gravatar.com/userimage/213976415/ff686318b8545b09eac6275b9d4ef901</icon>
     <license>MIT</license>
     <Authors>Leonardo de Lima Oliveira</Authors>
