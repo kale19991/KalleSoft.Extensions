@@ -1,0 +1,10 @@
+Z:\KalleSoft\KalleSoft.Extensions\back\KalleSoft.Extensions\bin\Debug\netstandard2.1\KalleSoft.Extensions.deps.json
+Z:\KalleSoft\KalleSoft.Extensions\back\KalleSoft.Extensions\bin\Debug\netstandard2.1\KalleSoft.Extensions.dll
+Z:\KalleSoft\KalleSoft.Extensions\back\KalleSoft.Extensions\bin\Debug\netstandard2.1\KalleSoft.Extensions.pdb
+Z:\KalleSoft\KalleSoft.Extensions\back\KalleSoft.Extensions\obj\Debug\netstandard2.1\KalleSoft.Extensions.GeneratedMSBuildEditorConfig.editorconfig
+Z:\KalleSoft\KalleSoft.Extensions\back\KalleSoft.Extensions\obj\Debug\netstandard2.1\KalleSoft.Extensions.AssemblyInfoInputs.cache
+Z:\KalleSoft\KalleSoft.Extensions\back\KalleSoft.Extensions\obj\Debug\netstandard2.1\KalleSoft.Extensions.AssemblyInfo.cs
+Z:\KalleSoft\KalleSoft.Extensions\back\KalleSoft.Extensions\obj\Debug\netstandard2.1\KalleSoft.Extensions.csproj.CoreCompileInputs.cache
+Z:\KalleSoft\KalleSoft.Extensions\back\KalleSoft.Extensions\obj\Debug\netstandard2.1\KalleSoft.Extensions.sourcelink.json
+Z:\KalleSoft\KalleSoft.Extensions\back\KalleSoft.Extensions\obj\Debug\netstandard2.1\KalleSoft.Extensions.dll
+Z:\KalleSoft\KalleSoft.Extensions\back\KalleSoft.Extensions\obj\Debug\netstandard2.1\KalleSoft.Extensions.pdb

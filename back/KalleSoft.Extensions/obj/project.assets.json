@@ -14,16 +14,17 @@
   "project": {
     "version": "2.0.0",
     "restore": {
-      "projectUniqueName": "z:\\KalleSoft\\KalleSoft.Extensions\\back\\KalleSoft.Extensions\\KalleSoft.Extensions.csproj",
+      "projectUniqueName": "Z:\\KalleSoft\\KalleSoft.Extensions\\back\\KalleSoft.Extensions\\KalleSoft.Extensions.csproj",
       "projectName": "KalleSoft.Extensions",
-      "projectPath": "z:\\KalleSoft\\KalleSoft.Extensions\\back\\KalleSoft.Extensions\\KalleSoft.Extensions.csproj",
+      "projectPath": "Z:\\KalleSoft\\KalleSoft.Extensions\\back\\KalleSoft.Extensions\\KalleSoft.Extensions.csproj",
       "packagesPath": "C:\\Users\\eng_l\\.nuget\\packages\\",
-      "outputPath": "z:\\KalleSoft\\KalleSoft.Extensions\\back\\KalleSoft.Extensions\\obj\\",
+      "outputPath": "Z:\\KalleSoft\\KalleSoft.Extensions\\back\\KalleSoft.Extensions\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
+        "Z:\\KalleSoft\\KalleSoft.Extensions\\back\\KalleSoft.Extensions\\NuGet.Config",
         "C:\\Users\\eng_l\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -32,10 +33,8 @@
         "netstandard2.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://pkgs.dev.azure.com/institutounibancovso/_packaging/iu_sigae/nuget/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.1": {
@@ -47,6 +46,9 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "default"
       }
     },
     "frameworks": {
@@ -68,7 +70,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-preview.6.23330.14\\RuntimeIdentifierGraph.json"
       }
     }
   }
